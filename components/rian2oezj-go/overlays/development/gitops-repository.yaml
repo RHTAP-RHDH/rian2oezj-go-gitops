@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: rian2oezj-go-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/rian2oezj-go-gitops
